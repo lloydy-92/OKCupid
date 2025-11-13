@@ -20,8 +20,8 @@ This project takes a dataset of users' dating profile information from the ficti
 ## Installation
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/lloydy-92/OKCupid-Analysis.git
-   cd OKCupid-Analysis
+   git clone https://github.com/lloydy-92/OKCupid.git
+   cd OKCupid
 2. **(Optional) Create and activate a virtual environment**
    ```bash
    python -m venv venv
@@ -35,7 +35,7 @@ This project takes a dataset of users' dating profile information from the ficti
 
 ## Project Structure
 ```bash
-OKCupid-Analysis/
+OKCupid/
 ├── date-a-scientist.ipynb        # Main analysis notebook
 ├── profiles.csv      # Dataset containing user information
 ├── requirements.txt          # Python dependencies
