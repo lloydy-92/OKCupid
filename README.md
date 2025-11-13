@@ -67,3 +67,5 @@ Contributions, suggestions, and improvements are welcome and encouraged! If you 
 ## Acknowledgements
 - Codecademy Data Science Path for providing structured guidance on this project, as well as the dataset itself.
 - The open-source community for libraries like ```pandas```, ```matplotlib```, and ```seaborn```.
+------------------------------------------------------------------------------------------------------------------
+"*In data, as in love, patterns emerge when you look closely enough — but the real insight comes from understanding why they do.*"
