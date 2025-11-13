@@ -1,3 +1,8 @@
+# **IMPORTANT NOTE** #
+The dataset used in this project, *profiles.csv*, is so large in fact that GitHub will not let me upload it as a file to this repository. If you wish to access the dataset yourself, please follow this link to download the project starter pack, courtesy of Codecademy: https://content.codecademy.com/PRO/paths/data-science/OKCupid-Date-A-Scientist-Starter.zip
+
+
+
 # Dating Profile Analysis - OKCupid: Overview and Objective
 This project takes a dataset of users' dating profile information from the fictional online dating webstie OKCupid, and uses various machine learning models to determine the following:
 ### Can a user's relationship status be predicted using other variables in their dating profile using a machine learning model, and which model performs best?
@@ -37,7 +42,6 @@ This project takes a dataset of users' dating profile information from the ficti
 ```bash
 OKCupid/
 ├── date-a-scientist.ipynb        # Main analysis notebook
-├── profiles.csv      # Dataset containing user information
 ├── requirements.txt          # Python dependencies
 └── README.md                 # Project documentation
 ```
@@ -62,4 +66,3 @@ Contributions, suggestions, and improvements are welcome and encouraged! If you 
 ## Acknowledgements
 - Codecademy Data Science Path for providing structured guidance on this project, as well as the dataset itself.
 - The open-source community for libraries like ```pandas```, ```matplotlib```, and ```seaborn```.
-     
