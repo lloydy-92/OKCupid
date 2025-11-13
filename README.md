@@ -21,6 +21,7 @@ This project takes a dataset of users' dating profile information from the ficti
 | Data manipulation | `pandas` |
 | Data visualization | `matplotlib`, `seaborn` |
 | Machine learning modelling | `sklearn`, `xgboost`, `imblearn` |
+| Environment | Jupyter Notebook (`%matplotlib inline`) |
 
 ## Installation
 1. **Clone this repository**
