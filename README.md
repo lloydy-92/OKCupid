@@ -1,5 +1,5 @@
 # **IMPORTANT NOTE** #
-The dataset used in this project, *profiles.csv*, is so large in fact that GitHub will not let me upload it as a file to this repository. If you wish to access the dataset yourself, please follow this link to download the project starter pack, courtesy of Codecademy: https://content.codecademy.com/PRO/paths/data-science/OKCupid-Date-A-Scientist-Starter.zip
+The dataset used in this project, `profiles.csv`, is so large in fact that GitHub will not let me upload it as a file to this repository. If you wish to access the dataset yourself, please follow this link to download the project starter pack, courtesy of Codecademy: https://content.codecademy.com/PRO/paths/data-science/OKCupid-Date-A-Scientist-Starter.zip
 
 
 
