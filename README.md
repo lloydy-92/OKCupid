@@ -44,6 +44,7 @@ This project takes a dataset of users' dating profile information from the ficti
 OKCupid/
 ├── date-a-scientist.ipynb        # Main analysis notebook
 ├── requirements.txt          # Python dependencies
+├── analysis.md               # Written analysis file
 └── README.md                 # Project documentation
 ```
 
